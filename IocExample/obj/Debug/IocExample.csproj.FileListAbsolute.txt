@@ -1,0 +1,10 @@
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.exe.config
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.exe
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\bin\Debug\IocExample.pdb
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\bin\Debug\Ninject.dll
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\bin\Debug\Ninject.xml
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.csprojAssemblyReference.cache
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.csproj.CoreCompileInputs.cache
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.csproj.CopyComplete
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.exe
+C:\Users\Maryo\Downloads\Task.IoC\IocExample\obj\Debug\IocExample.pdb
